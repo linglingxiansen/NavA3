@@ -19,4 +19,9 @@ key='your openai api-key'
 ```
 
 ## Run
-Connect your realman robot and run navia3_english.py
+
+1. Use 3d scanner app to construct your 3d scene and top-down map
+   
+2. Change the x_min, y_min, x_max, y_max for different rooms in the navia3_english.py
+  
+3. Connect your realman robot and run navia3_english.py
