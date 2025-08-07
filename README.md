@@ -25,3 +25,6 @@ key='your openai api-key'
 2. Change the x_min, y_min, x_max, y_max for different rooms in the navia3_english.py
   
 3. Connect your realman robot and run navia3_english.py
+
+
+## NaviAfford model for goal pointing (coming soon...)
